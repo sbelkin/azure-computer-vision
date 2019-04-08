@@ -1,0 +1,1182 @@
+{
+  "orientation": "Up",
+  "regions": [
+    {
+      "boundingBox": "51,85,420,330",
+      "lines": [
+        {
+          "boundingBox": "267,85,177,32",
+          "words": [{
+            "boundingBox": "267,85,177,32",
+            "text": "Brewski"
+          }]
+        },
+        {
+          "boundingBox": "51,125,82,14",
+          "words": [
+            {
+              "boundingBox": "51,125,30,13",
+              "text": "HOP"
+            },
+            {
+              "boundingBox": "84,125,49,14",
+              "text": "HEADS"
+            }
+          ]
+        },
+        {
+          "boundingBox": "55,147,242,21",
+          "words": [
+            {
+              "boundingBox": "55,147,50,16",
+              "text": "bengali"
+            },
+            {
+              "boundingBox": "111,150,20,13",
+              "text": "\u2022pp."
+            },
+            {
+              "boundingBox": "135,147,54,17",
+              "text": "sixpoint."
+            },
+            {
+              "boundingBox": "193,151,18,17",
+              "text": "ny."
+            },
+            {
+              "boundingBox": "214,148,83,16",
+              "text": "6.5%abv.120"
+            }
+          ]
+        },
+        {
+          "boundingBox": "57,169,360,19",
+          "words": [
+            {
+              "boundingBox": "57,169,37,13",
+              "text": "down"
+            },
+            {
+              "boundingBox": "98,171,13,11",
+              "text": "to"
+            },
+            {
+              "boundingBox": "115,169,33,13",
+              "text": "earth"
+            },
+            {
+              "boundingBox": "153,170,44,14",
+              "text": "session"
+            },
+            {
+              "boundingBox": "201,174,21,12",
+              "text": "'pa,"
+            },
+            {
+              "boundingBox": "225,171,26,13",
+              "text": "21st"
+            },
+            {
+              "boundingBox": "255,172,79,15",
+              "text": "amendment."
+            },
+            {
+              "boundingBox": "338,175,18,10",
+              "text": "ca."
+            },
+            {
+              "boundingBox": "361,172,56,16",
+              "text": "4.2%abv,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "58,190,294,19",
+          "words": [
+            {
+              "boundingBox": "58,190,22,14",
+              "text": "left"
+            },
+            {
+              "boundingBox": "84,191,12,13",
+              "text": "of"
+            },
+            {
+              "boundingBox": "100,191,21,13",
+              "text": "the"
+            },
+            {
+              "boundingBox": "125,191,25,13",
+              "text": "dial"
+            },
+            {
+              "boundingBox": "154,195,44,10",
+              "text": "session"
+            },
+            {
+              "boundingBox": "202,192,20,16",
+              "text": "ipa."
+            },
+            {
+              "boundingBox": "227,193,39,15",
+              "text": "notch."
+            },
+            {
+              "boundingBox": "270,197,22,11",
+              "text": "ma,"
+            },
+            {
+              "boundingBox": "296,193,56,16",
+              "text": "4.3%abv,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "58,212,297,18",
+          "words": [
+            {
+              "boundingBox": "58,212,16,13",
+              "text": "60"
+            },
+            {
+              "boundingBox": "78,212,45,14",
+              "text": "minute"
+            },
+            {
+              "boundingBox": "152,213,47,17",
+              "text": "dogfish"
+            },
+            {
+              "boundingBox": "203,214,35,15",
+              "text": "head,"
+            },
+            {
+              "boundingBox": "242,215,19,14",
+              "text": "de."
+            },
+            {
+              "boundingBox": "265,215,55,15",
+              "text": "6.0%abv,"
+            },
+            {
+              "boundingBox": "325,216,30,13",
+              "text": "120z."
+            }
+          ]
+        },
+        {
+          "boundingBox": "60,234,246,17",
+          "words": [
+            {
+              "boundingBox": "60,234,30,13",
+              "text": "tinn"
+            },
+            {
+              "boundingBox": "95,238,20,11",
+              "text": "'pa."
+            },
+            {
+              "boundingBox": "120,237,34,14",
+              "text": "great"
+            },
+            {
+              "boundingBox": "158,236,41,14",
+              "text": "divide."
+            },
+            {
+              "boundingBox": "203,239,19,12",
+              "text": "co."
+            },
+            {
+              "boundingBox": "226,236,55,15",
+              "text": "7.1%abv,"
+            },
+            {
+              "boundingBox": "286,237,20,13",
+              "text": "120"
+            }
+          ]
+        },
+        {
+          "boundingBox": "61,256,241,16",
+          "words": [
+            {
+              "boundingBox": "61,256,49,15",
+              "text": "sculpin"
+            },
+            {
+              "boundingBox": "140,257,42,13",
+              "text": "ballast"
+            },
+            {
+              "boundingBox": "186,259,35,13",
+              "text": "point."
+            },
+            {
+              "boundingBox": "225,260,18,12",
+              "text": "ca."
+            },
+            {
+              "boundingBox": "248,258,54,14",
+              "text": "1.0%abv,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "81,277,230,17",
+          "words": [
+            {
+              "boundingBox": "81,277,44,13",
+              "text": "minute"
+            },
+            {
+              "boundingBox": "130,278,48,14",
+              "text": "imperial"
+            },
+            {
+              "boundingBox": "181,281,20,12",
+              "text": "'pa."
+            },
+            {
+              "boundingBox": "205,278,46,16",
+              "text": "dogfish"
+            },
+            {
+              "boundingBox": "255,278,34,15",
+              "text": "head,"
+            },
+            {
+              "boundingBox": "293,279,18,14",
+              "text": "de,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "62,297,387,19",
+          "words": [
+            {
+              "boundingBox": "62,297,69,16",
+              "text": "hoponious"
+            },
+            {
+              "boundingBox": "136,298,35,13",
+              "text": "union"
+            },
+            {
+              "boundingBox": "175,302,54,10",
+              "text": "amencan"
+            },
+            {
+              "boundingBox": "232,300,25,15",
+              "text": "pale"
+            },
+            {
+              "boundingBox": "260,300,30,15",
+              "text": "lager."
+            },
+            {
+              "boundingBox": "294,300,34,15",
+              "text": "jack's"
+            },
+            {
+              "boundingBox": "333,300,32,16",
+              "text": "abby,"
+            },
+            {
+              "boundingBox": "369,303,22,12",
+              "text": "ma,"
+            },
+            {
+              "boundingBox": "395,300,54,15",
+              "text": "6.7%abv."
+            }
+          ]
+        },
+        {
+          "boundingBox": "64,318,75,14",
+          "words": [
+            {
+              "boundingBox": "64,318,15,13",
+              "text": "IN"
+            },
+            {
+              "boundingBox": "84,318,55,14",
+              "text": "BRUGES"
+            }
+          ]
+        },
+        {
+          "boundingBox": "65,340,315,16",
+          "words": [
+            {
+              "boundingBox": "65,340,48,12",
+              "text": "weisse"
+            },
+            {
+              "boundingBox": "118,340,43,14",
+              "text": "neisse."
+            },
+            {
+              "boundingBox": "164,340,44,13",
+              "text": "hacker"
+            },
+            {
+              "boundingBox": "212,340,50,16",
+              "text": "pschorr."
+            },
+            {
+              "boundingBox": "266,344,56,12",
+              "text": "germany,"
+            },
+            {
+              "boundingBox": "327,340,53,15",
+              "text": "5.5%abv."
+            }
+          ]
+        },
+        {
+          "boundingBox": "66,360,396,16",
+          "words": [
+            {
+              "boundingBox": "66,360,33,12",
+              "text": "orval"
+            },
+            {
+              "boundingBox": "104,361,42,14",
+              "text": "belgtan"
+            },
+            {
+              "boundingBox": "150,361,25,14",
+              "text": "pale"
+            },
+            {
+              "boundingBox": "178,361,20,13",
+              "text": "ale."
+            },
+            {
+              "boundingBox": "202,361,58,12",
+              "text": "brasserie"
+            },
+            {
+              "boundingBox": "264,361,45,13",
+              "text": "d'orval."
+            },
+            {
+              "boundingBox": "313,361,51,15",
+              "text": "belgium."
+            },
+            {
+              "boundingBox": "368,361,53,14",
+              "text": "6.2%abv,"
+            },
+            {
+              "boundingBox": "426,362,36,12",
+              "text": "11.201"
+            }
+          ]
+        },
+        {
+          "boundingBox": "67,380,404,16",
+          "words": [
+            {
+              "boundingBox": "67,380,149,16",
+              "text": "deliriumtremensbelgian"
+            },
+            {
+              "boundingBox": "219,383,35,13",
+              "text": "strong"
+            },
+            {
+              "boundingBox": "257,381,25,14",
+              "text": "pale"
+            },
+            {
+              "boundingBox": "284,381,20,13",
+              "text": "ale."
+            },
+            {
+              "boundingBox": "308,381,57,15",
+              "text": "brouwerij"
+            },
+            {
+              "boundingBox": "369,381,48,15",
+              "text": "huyghe,"
+            },
+            {
+              "boundingBox": "421,381,50,15",
+              "text": "belgium,"
+            }
+          ]
+        },
+        {
+          "boundingBox": "69,401,401,14",
+          "words": [
+            {
+              "boundingBox": "69,401,60,12",
+              "text": "rochetort"
+            },
+            {
+              "boundingBox": "132,401,7,12",
+              "text": "6"
+            },
+            {
+              "boundingBox": "143,401,40,13",
+              "text": "dubbel."
+            },
+            {
+              "boundingBox": "188,401,57,12",
+              "text": "brasserie"
+            },
+            {
+              "boundingBox": "249,401,15,12",
+              "text": "de"
+            },
+            {
+              "boundingBox": "268,401,60,13",
+              "text": "rochefort."
+            },
+            {
+              "boundingBox": "332,401,50,14",
+              "text": "belgium,"
+            },
+            {
+              "boundingBox": "387,401,52,13",
+              "text": "7.5%abv,"
+            },
+            {
+              "boundingBox": "444,401,26,12",
+              "text": "120z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "629,402,13,12",
+      "lines": [{
+        "boundingBox": "629,402,13,12",
+        "words": [{
+          "boundingBox": "629,402,13,12",
+          "text": "15"
+        }]
+      }]
+    },
+    {
+      "boundingBox": "70,420,572,286",
+      "lines": [
+        {
+          "boundingBox": "70,420,572,15",
+          "words": [
+            {
+              "boundingBox": "70,420,73,13",
+              "text": "monk'scafe"
+            },
+            {
+              "boundingBox": "148,421,41,12",
+              "text": "landers"
+            },
+            {
+              "boundingBox": "192,421,21,12",
+              "text": "ood"
+            },
+            {
+              "boundingBox": "216,421,30,13",
+              "text": "bruin."
+            },
+            {
+              "boundingBox": "250,421,58,14",
+              "text": "brouwerij"
+            },
+            {
+              "boundingBox": "312,423,21,9",
+              "text": "van"
+            },
+            {
+              "boundingBox": "337,420,72,15",
+              "text": "steenberge,"
+            },
+            {
+              "boundingBox": "413,420,50,15",
+              "text": "belgium."
+            },
+            {
+              "boundingBox": "467,420,53,15",
+              "text": "5.5%abv,"
+            },
+            {
+              "boundingBox": "525,421,117,12",
+              "text": "100z\u201415"
+            }
+          ]
+        },
+        {
+          "boundingBox": "70,440,101,13",
+          "words": [
+            {
+              "boundingBox": "70,441,26,12",
+              "text": "THE"
+            },
+            {
+              "boundingBox": "100,441,37,12",
+              "text": "DARK"
+            },
+            {
+              "boundingBox": "141,440,30,12",
+              "text": "SIDE"
+            }
+          ]
+        },
+        {
+          "boundingBox": "72,459,328,14",
+          "words": [
+            {
+              "boundingBox": "72,461,29,12",
+              "text": "nitro"
+            },
+            {
+              "boundingBox": "106,460,28,13",
+              "text": "milk"
+            },
+            {
+              "boundingBox": "139,462,31,10",
+              "text": "stout"
+            },
+            {
+              "boundingBox": "175,460,23,12",
+              "text": "milk"
+            },
+            {
+              "boundingBox": "203,461,30,12",
+              "text": "Stout."
+            },
+            {
+              "boundingBox": "238,459,19,12",
+              "text": "left"
+            },
+            {
+              "boundingBox": "262,459,33,13",
+              "text": "hand,"
+            },
+            {
+              "boundingBox": "300,462,17,10",
+              "text": "co."
+            },
+            {
+              "boundingBox": "322,459,78,13",
+              "text": "60%abv.120"
+            }
+          ]
+        },
+        {
+          "boundingBox": "72,479,257,15",
+          "words": [
+            {
+              "boundingBox": "72,481,42,12",
+              "text": "smoke"
+            },
+            {
+              "boundingBox": "118,480,10,12",
+              "text": "&"
+            },
+            {
+              "boundingBox": "131,480,44,14",
+              "text": "dagger"
+            },
+            {
+              "boundingBox": "179,480,54,12",
+              "text": "rauchbiet,"
+            },
+            {
+              "boundingBox": "236,479,34,14",
+              "text": "jack's"
+            },
+            {
+              "boundingBox": "274,479,31,14",
+              "text": "abby,"
+            },
+            {
+              "boundingBox": "309,482,20,10",
+              "text": "ma."
+            }
+          ]
+        },
+        {
+          "boundingBox": "73,498,562,15",
+          "words": [
+            {
+              "boundingBox": "73,501,28,12",
+              "text": "dian"
+            },
+            {
+              "boundingBox": "105,500,41,12",
+              "text": "brown"
+            },
+            {
+              "boundingBox": "150,499,51,12",
+              "text": "american"
+            },
+            {
+              "boundingBox": "205,499,34,12",
+              "text": "brom"
+            },
+            {
+              "boundingBox": "242,499,19,12",
+              "text": "ale,"
+            },
+            {
+              "boundingBox": "266,498,43,14",
+              "text": "dogfish"
+            },
+            {
+              "boundingBox": "313,498,32,13",
+              "text": "head,"
+            },
+            {
+              "boundingBox": "349,498,18,13",
+              "text": "de."
+            },
+            {
+              "boundingBox": "371,498,52,13",
+              "text": "7.2%abv."
+            },
+            {
+              "boundingBox": "428,498,207,12",
+              "text": "1207\u20146.5"
+            }
+          ]
+        },
+        {
+          "boundingBox": "74,517,300,18",
+          "words": [
+            {
+              "boundingBox": "74,522,39,13",
+              "text": "porter"
+            },
+            {
+              "boundingBox": "117,519,51,12",
+              "text": "american"
+            },
+            {
+              "boundingBox": "172,520,31,12",
+              "text": "poret."
+            },
+            {
+              "boundingBox": "207,518,37,12",
+              "text": "anchor"
+            },
+            {
+              "boundingBox": "247,517,47,14",
+              "text": "brewing."
+            },
+            {
+              "boundingBox": "298,520,15,10",
+              "text": "ca."
+            },
+            {
+              "boundingBox": "371,517,3,11",
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "boundingBox": "628,517,7,12",
+          "words": [{
+            "boundingBox": "628,517,7,12",
+            "text": "7"
+          }]
+        },
+        {
+          "boundingBox": "75,538,85,14",
+          "words": [{
+            "boundingBox": "75,538,85,14",
+            "text": "SIPPIN'SUDS"
+          }]
+        },
+        {
+          "boundingBox": "76,554,487,18",
+          "words": [
+            {
+              "boundingBox": "76,558,55,14",
+              "text": "brooklyn"
+            },
+            {
+              "boundingBox": "136,558,32,13",
+              "text": "lager"
+            },
+            {
+              "boundingBox": "171,556,51,12",
+              "text": "american"
+            },
+            {
+              "boundingBox": "225,556,30,14",
+              "text": "lager,"
+            },
+            {
+              "boundingBox": "259,555,50,14",
+              "text": "brooklyn"
+            },
+            {
+              "boundingBox": "313,555,51,14",
+              "text": "brewery."
+            },
+            {
+              "boundingBox": "368,558,16,10",
+              "text": "ny,"
+            },
+            {
+              "boundingBox": "388,555,15,11",
+              "text": "5.1"
+            },
+            {
+              "boundingBox": "405,554,35,14",
+              "text": "%abv,"
+            },
+            {
+              "boundingBox": "444,554,119,12",
+              "text": "1202\u2014\u2014"
+            }
+          ]
+        },
+        {
+          "boundingBox": "77,574,470,20",
+          "words": [
+            {
+              "boundingBox": "77,578,36,16",
+              "text": "prima"
+            },
+            {
+              "boundingBox": "117,577,23,15",
+              "text": "pils"
+            },
+            {
+              "boundingBox": "144,576,39,14",
+              "text": "pilsnet"
+            },
+            {
+              "boundingBox": "186,575,44,13",
+              "text": "victory."
+            },
+            {
+              "boundingBox": "234,577,17,11",
+              "text": "pa,"
+            },
+            {
+              "boundingBox": "255,574,51,13",
+              "text": "5.3%abv,"
+            },
+            {
+              "boundingBox": "311,574,236,11",
+              "text": "1202\u2014\u2014"
+            }
+          ]
+        },
+        {
+          "boundingBox": "77,591,354,19",
+          "words": [
+            {
+              "boundingBox": "77,598,40,12",
+              "text": "sweet"
+            },
+            {
+              "boundingBox": "120,595,39,13",
+              "text": "action"
+            },
+            {
+              "boundingBox": "163,597,34,10",
+              "text": "cream"
+            },
+            {
+              "boundingBox": "200,594,20,12",
+              "text": "ale."
+            },
+            {
+              "boundingBox": "223,593,49,14",
+              "text": "sixpoint."
+            },
+            {
+              "boundingBox": "276,595,16,11",
+              "text": "ny,"
+            },
+            {
+              "boundingBox": "296,591,51,14",
+              "text": "5.2%abv,"
+            },
+            {
+              "boundingBox": "351,592,4,11",
+              "text": "t"
+            },
+            {
+              "boundingBox": "357,592,74,12",
+              "text": "202\u2014"
+            }
+          ]
+        },
+        {
+          "boundingBox": "78,611,304,18",
+          "words": [
+            {
+              "boundingBox": "78,620,15,9",
+              "text": "no"
+            },
+            {
+              "boundingBox": "98,616,34,12",
+              "text": "limits"
+            },
+            {
+              "boundingBox": "136,614,65,12",
+              "text": "hefeweiten."
+            },
+            {
+              "boundingBox": "206,614,21,10",
+              "text": "two"
+            },
+            {
+              "boundingBox": "266,613,13,11",
+              "text": "ct"
+            },
+            {
+              "boundingBox": "282,611,37,12",
+              "text": "5%abv"
+            },
+            {
+              "boundingBox": "323,611,59,11",
+              "text": "1601\u2014"
+            }
+          ]
+        },
+        {
+          "boundingBox": "79,631,125,17",
+          "words": [
+            {
+              "boundingBox": "79,635,37,13",
+              "text": "FRUIT"
+            },
+            {
+              "boundingBox": "119,634,17,12",
+              "text": "OF"
+            },
+            {
+              "boundingBox": "139,632,24,13",
+              "text": "THE"
+            },
+            {
+              "boundingBox": "167,631,37,12",
+              "text": "LOOM"
+            }
+          ]
+        },
+        {
+          "boundingBox": "79,646,330,23",
+          "words": [
+            {
+              "boundingBox": "79,654,61,15",
+              "text": "raspberry"
+            },
+            {
+              "boundingBox": "143,651,37,12",
+              "text": "weiss"
+            },
+            {
+              "boundingBox": "184,650,42,11",
+              "text": "twrlirW"
+            },
+            {
+              "boundingBox": "229,649,33,11",
+              "text": "Weiss."
+            },
+            {
+              "boundingBox": "265,648,33,11",
+              "text": "white"
+            },
+            {
+              "boundingBox": "302,647,32,12",
+              "text": "birch,"
+            },
+            {
+              "boundingBox": "338,647,17,12",
+              "text": "nh,"
+            },
+            {
+              "boundingBox": "359,646,50,12",
+              "text": "5.5%abv."
+            }
+          ]
+        },
+        {
+          "boundingBox": "80,665,272,21",
+          "words": [
+            {
+              "boundingBox": "80,673,68,13",
+              "text": "strawberry"
+            },
+            {
+              "boundingBox": "152,670,45,12",
+              "text": "harvest"
+            },
+            {
+              "boundingBox": "201,667,21,12",
+              "text": "fruit"
+            },
+            {
+              "boundingBox": "258,666,30,11",
+              "text": "abita."
+            },
+            {
+              "boundingBox": "292,665,60,12",
+              "text": "la.4L2%atw."
+            }
+          ]
+        },
+        {
+          "boundingBox": "80,682,331,24",
+          "words": [
+            {
+              "boundingBox": "80,691,49,15",
+              "text": "original"
+            },
+            {
+              "boundingBox": "133,689,33,12",
+              "text": "cider"
+            },
+            {
+              "boundingBox": "169,688,28,11",
+              "text": "cider,"
+            },
+            {
+              "boundingBox": "201,686,58,12",
+              "text": "downeast"
+            },
+            {
+              "boundingBox": "263,684,29,11",
+              "text": "Cider"
+            },
+            {
+              "boundingBox": "295,683,39,12",
+              "text": "house."
+            },
+            {
+              "boundingBox": "337,685,21,9",
+              "text": "ma,"
+            },
+            {
+              "boundingBox": "361,682,9,11",
+              "text": "5."
+            },
+            {
+              "boundingBox": "372,682,39,12",
+              "text": "t%abv,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "81,701,311,149",
+      "lines": [
+        {
+          "boundingBox": "81,701,237,23",
+          "words": [
+            {
+              "boundingBox": "81,708,75,16",
+              "text": "wunderkind"
+            },
+            {
+              "boundingBox": "161,706,27,12",
+              "text": "cider."
+            },
+            {
+              "boundingBox": "192,705,47,11",
+              "text": "bantam,"
+            },
+            {
+              "boundingBox": "243,705,21,10",
+              "text": "ma,"
+            },
+            {
+              "boundingBox": "267,701,51,12",
+              "text": "6.0%abv."
+            }
+          ]
+        },
+        {
+          "boundingBox": "82,722,144,20",
+          "words": [
+            {
+              "boundingBox": "82,728,44,14",
+              "text": "CHEFS"
+            },
+            {
+              "boundingBox": "130,724,52,15",
+              "text": "PRIVATE"
+            },
+            {
+              "boundingBox": "185,722,41,13",
+              "text": "STOCK"
+            }
+          ]
+        },
+        {
+          "boundingBox": "82,736,269,25",
+          "words": [
+            {
+              "boundingBox": "82,750,30,11",
+              "text": "even"
+            },
+            {
+              "boundingBox": "116,745,27,13",
+              "text": "keel"
+            },
+            {
+              "boundingBox": "147,746,22,11",
+              "text": "apa"
+            },
+            {
+              "boundingBox": "174,742,39,12",
+              "text": "ballast"
+            },
+            {
+              "boundingBox": "216,740,32,14",
+              "text": "point."
+            },
+            {
+              "boundingBox": "252,741,17,9",
+              "text": "ca,"
+            },
+            {
+              "boundingBox": "273,736,78,13",
+              "text": "3.8%abv.1202"
+            }
+          ]
+        },
+        {
+          "boundingBox": "83,753,298,29",
+          "words": [
+            {
+              "boundingBox": "83,767,52,15",
+              "text": "genesee"
+            },
+            {
+              "boundingBox": "139,764,39,11",
+              "text": "cream"
+            },
+            {
+              "boundingBox": "182,762,32,10",
+              "text": "cream"
+            },
+            {
+              "boundingBox": "217,759,19,11",
+              "text": "ale,"
+            },
+            {
+              "boundingBox": "240,756,46,12",
+              "text": "dundee."
+            },
+            {
+              "boundingBox": "290,758,15,10",
+              "text": "ny,"
+            },
+            {
+              "boundingBox": "309,753,72,12",
+              "text": "5.1%abv.120"
+            }
+          ]
+        },
+        {
+          "boundingBox": "84,770,308,30",
+          "words": [
+            {
+              "boundingBox": "84,785,46,15",
+              "text": "gansen"
+            },
+            {
+              "boundingBox": "133,781,50,14",
+              "text": "ame\u2022ican"
+            },
+            {
+              "boundingBox": "187,779,28,13",
+              "text": "lager,"
+            },
+            {
+              "boundingBox": "219,774,78,15",
+              "text": "narragansett."
+            },
+            {
+              "boundingBox": "300,772,11,12",
+              "text": "ri."
+            },
+            {
+              "boundingBox": "314,770,78,13",
+              "text": "5.0%abv.1207"
+            }
+          ]
+        },
+        {
+          "boundingBox": "85,807,274,26",
+          "words": [
+            {
+              "boundingBox": "85,821,47,12",
+              "text": "session"
+            },
+            {
+              "boundingBox": "136,817,50,13",
+              "text": "american"
+            },
+            {
+              "boundingBox": "188,815,24,14",
+              "text": "pate"
+            },
+            {
+              "boundingBox": "215,815,29,13",
+              "text": "lager."
+            },
+            {
+              "boundingBox": "247,812,18,11",
+              "text": "full"
+            },
+            {
+              "boundingBox": "269,810,22,13",
+              "text": "sail,"
+            },
+            {
+              "boundingBox": "295,812,13,10",
+              "text": "or."
+            },
+            {
+              "boundingBox": "312,807,47,13",
+              "text": "5.1%abv"
+            }
+          ]
+        },
+        {
+          "boundingBox": "86,831,186,19",
+          "words": [
+            {
+              "boundingBox": "86,839,39,11",
+              "text": "wc.t\u2022"
+            },
+            {
+              "boundingBox": "129,838,42,9",
+              "text": "cerveza"
+            },
+            {
+              "boundingBox": "175,831,97,14",
+              "text": "mexiC0.4.5%abv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boundingBox": "604,824,16,10",
+      "lines": [{
+        "boundingBox": "604,824,16,10",
+        "words": [{
+          "boundingBox": "604,824,16,10",
+          "text": "45"
+        }]
+      }]
+    }
+  ],
+  "textAngle": -0.057595865315812234,
+  "language": "en"
+}

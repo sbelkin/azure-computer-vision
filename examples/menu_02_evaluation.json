@@ -1,0 +1,439 @@
+{
+  "orientation": "Up",
+  "regions": [{
+    "boundingBox": "69,109,681,586",
+    "lines": [
+      {
+        "boundingBox": "399,109,179,36",
+        "words": [{
+          "boundingBox": "399,109,179,36",
+          "text": "Drafts"
+        }]
+      },
+      {
+        "boundingBox": "91,196,565,33",
+        "words": [
+          {
+            "boundingBox": "91,200,125,29",
+            "text": "perpetual,"
+          },
+          {
+            "boundingBox": "226,199,51,27",
+            "text": "dipa,"
+          },
+          {
+            "boundingBox": "286,202,70,23",
+            "text": "troegs"
+          },
+          {
+            "boundingBox": "365,198,61,24",
+            "text": "brew,"
+          },
+          {
+            "boundingBox": "436,203,32,21",
+            "text": "pa,"
+          },
+          {
+            "boundingBox": "478,196,178,25",
+            "text": "7.5%abv,120z.."
+          }
+        ]
+      },
+      {
+        "boundingBox": "89,232,437,30",
+        "words": [
+          {
+            "boundingBox": "89,241,58,17",
+            "text": "even"
+          },
+          {
+            "boundingBox": "156,235,60,25",
+            "text": "keel,"
+          },
+          {
+            "boundingBox": "225,240,46,22",
+            "text": "apa,"
+          },
+          {
+            "boundingBox": "280,233,75,23",
+            "text": "ballast"
+          },
+          {
+            "boundingBox": "364,233,56,28",
+            "text": "point"
+          },
+          {
+            "boundingBox": "429,232,63,25",
+            "text": "brew,"
+          },
+          {
+            "boundingBox": "501,237,25,17",
+            "text": "ca"
+          }
+        ]
+      },
+      {
+        "boundingBox": "86,267,664,31",
+        "words": [
+          {
+            "boundingBox": "86,271,108,23",
+            "text": "devotion"
+          },
+          {
+            "boundingBox": "201,288,7,8",
+            "text": ","
+          },
+          {
+            "boundingBox": "216,270,84,28",
+            "text": "be/gian"
+          },
+          {
+            "boundingBox": "307,269,78,24",
+            "text": "blonde"
+          },
+          {
+            "boundingBox": "392,268,40,27",
+            "text": "ale,"
+          },
+          {
+            "boundingBox": "442,268,41,23",
+            "text": "lost"
+          },
+          {
+            "boundingBox": "490,268,70,28",
+            "text": "abbey"
+          },
+          {
+            "boundingBox": "568,267,66,26",
+            "text": "brew,"
+          },
+          {
+            "boundingBox": "642,272,25,18",
+            "text": "ca"
+          },
+          {
+            "boundingBox": "677,267,73,23",
+            "text": "6.3%a"
+          }
+        ]
+      },
+      {
+        "boundingBox": "82,303,668,33",
+        "words": [
+          {
+            "boundingBox": "82,307,61,24",
+            "text": "del's"
+          },
+          {
+            "boundingBox": "151,307,97,29",
+            "text": "shandy,"
+          },
+          {
+            "boundingBox": "257,305,69,25",
+            "text": "beach"
+          },
+          {
+            "boundingBox": "330,306,62,29",
+            "text": "juice,"
+          },
+          {
+            "boundingBox": "402,307,154,28",
+            "text": "narragansett,"
+          },
+          {
+            "boundingBox": "566,304,21,27",
+            "text": "ri,"
+          },
+          {
+            "boundingBox": "596,303,111,27",
+            "text": "4.7%abv,"
+          },
+          {
+            "boundingBox": "717,304,33,22",
+            "text": "161"
+          }
+        ]
+      },
+      {
+        "boundingBox": "80,342,670,32",
+        "words": [
+          {
+            "boundingBox": "80,351,56,23",
+            "text": "grey"
+          },
+          {
+            "boundingBox": "145,345,59,29",
+            "text": "lady,"
+          },
+          {
+            "boundingBox": "215,344,84,27",
+            "text": "witbier,"
+          },
+          {
+            "boundingBox": "308,344,58,24",
+            "text": "cisco"
+          },
+          {
+            "boundingBox": "375,343,58,24",
+            "text": "brew"
+          },
+          {
+            "boundingBox": "441,349,32,21",
+            "text": "co,"
+          },
+          {
+            "boundingBox": "483,349,41,21",
+            "text": "ma,"
+          },
+          {
+            "boundingBox": "533,342,79,25",
+            "text": "4.5abv"
+          },
+          {
+            "boundingBox": "621,342,73,24",
+            "text": "120z.."
+          },
+          {
+            "boundingBox": "702,361,14,5",
+            "text": ".."
+          },
+          {
+            "boundingBox": "724,361,15,4",
+            "text": ".."
+          },
+          {
+            "boundingBox": "746,360,4,5",
+            "text": ","
+          }
+        ]
+      },
+      {
+        "boundingBox": "78,378,671,35",
+        "words": [
+          {
+            "boundingBox": "78,378,96,35",
+            "text": "peeier,"
+          },
+          {
+            "boundingBox": "181,382,52,30",
+            "text": "pale"
+          },
+          {
+            "boundingBox": "240,382,40,27",
+            "text": "ale,"
+          },
+          {
+            "boundingBox": "290,382,69,24",
+            "text": "maine"
+          },
+          {
+            "boundingBox": "369,382,64,27",
+            "text": "brew,"
+          },
+          {
+            "boundingBox": "443,388,42,21",
+            "text": "me,"
+          },
+          {
+            "boundingBox": "494,381,68,28",
+            "text": "5.5%,"
+          },
+          {
+            "boundingBox": "571,380,74,26",
+            "text": "120z.."
+          },
+          {
+            "boundingBox": "652,401,37,4",
+            "text": "....."
+          },
+          {
+            "boundingBox": "692,401,27,4",
+            "text": "...."
+          },
+          {
+            "boundingBox": "722,401,27,4",
+            "text": "...."
+          }
+        ]
+      },
+      {
+        "boundingBox": "76,420,619,31",
+        "words": [
+          {
+            "boundingBox": "76,421,70,27",
+            "text": "baba,"
+          },
+          {
+            "boundingBox": "155,421,61,25",
+            "text": "black"
+          },
+          {
+            "boundingBox": "224,421,63,30",
+            "text": "lager,"
+          },
+          {
+            "boundingBox": "296,421,57,25",
+            "text": "uinta"
+          },
+          {
+            "boundingBox": "363,421,65,28",
+            "text": "brew,"
+          },
+          {
+            "boundingBox": "437,424,29,25",
+            "text": "utt"
+          },
+          {
+            "boundingBox": "475,420,89,29",
+            "text": "4%abv,"
+          },
+          {
+            "boundingBox": "575,421,120,25",
+            "text": "160z.......s.."
+          }
+        ]
+      },
+      {
+        "boundingBox": "74,460,676,33",
+        "words": [
+          {
+            "boundingBox": "74,460,88,25",
+            "text": "bel-air"
+          },
+          {
+            "boundingBox": "176,467,63,21",
+            "text": "sour,"
+          },
+          {
+            "boundingBox": "251,460,96,29",
+            "text": "wilda/e,"
+          },
+          {
+            "boundingBox": "357,461,98,31",
+            "text": "brooklyn"
+          },
+          {
+            "boundingBox": "465,461,66,29",
+            "text": "brew,"
+          },
+          {
+            "boundingBox": "541,467,33,26",
+            "text": "ny,"
+          },
+          {
+            "boundingBox": "583,460,107,27",
+            "text": "6.5%abv"
+          },
+          {
+            "boundingBox": "700,461,50,26",
+            "text": "120a"
+          }
+        ]
+      },
+      {
+        "boundingBox": "72,540,305,32",
+        "words": [
+          {
+            "boundingBox": "72,540,72,25",
+            "text": "cidah"
+          },
+          {
+            "boundingBox": "153,540,40,26",
+            "text": "fah"
+          },
+          {
+            "boundingBox": "203,541,60,31",
+            "text": "days"
+          },
+          {
+            "boundingBox": "271,541,106,26",
+            "text": "kheddd!"
+          }
+        ]
+      },
+      {
+        "boundingBox": "72,581,678,34",
+        "words": [
+          {
+            "boundingBox": "72,581,39,28",
+            "text": "lei,"
+          },
+          {
+            "boundingBox": "121,581,59,25",
+            "text": "cider"
+          },
+          {
+            "boundingBox": "188,581,50,25",
+            "text": "with"
+          },
+          {
+            "boundingBox": "242,582,118,31",
+            "text": "jalepenos"
+          },
+          {
+            "boundingBox": "367,582,46,26",
+            "text": "and"
+          },
+          {
+            "boundingBox": "417,583,125,32",
+            "text": "pineapple,"
+          },
+          {
+            "boundingBox": "550,583,34,26",
+            "text": "far"
+          },
+          {
+            "boundingBox": "592,584,56,26",
+            "text": "from"
+          },
+          {
+            "boundingBox": "656,585,40,26",
+            "text": "the"
+          },
+          {
+            "boundingBox": "705,588,45,23",
+            "text": "tree"
+          }
+        ]
+      },
+      {
+        "boundingBox": "72,621,157,25",
+        "words": [{
+          "boundingBox": "72,621,157,25",
+          "text": "120z.........."
+        }]
+      },
+      {
+        "boundingBox": "69,661,575,34",
+        "words": [
+          {
+            "boundingBox": "69,661,123,32",
+            "text": "semi-dry,"
+          },
+          {
+            "boundingBox": "201,662,63,29",
+            "text": "cider,"
+          },
+          {
+            "boundingBox": "273,662,122,32",
+            "text": "cidergeist,"
+          },
+          {
+            "boundingBox": "405,664,34,29",
+            "text": "oh,"
+          },
+          {
+            "boundingBox": "448,664,112,31",
+            "text": "6.2%abv,"
+          },
+          {
+            "boundingBox": "572,666,72,26",
+            "text": "120z.."
+          }
+        ]
+      }
+    ]
+  }],
+  "textAngle": 0,
+  "language": "en"
+}
