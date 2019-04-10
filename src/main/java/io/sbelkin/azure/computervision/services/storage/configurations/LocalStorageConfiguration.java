@@ -1,4 +1,4 @@
-package io.sbelkin.azure.computervision.configuration;
+package io.sbelkin.azure.computervision.services.storage.configurations;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

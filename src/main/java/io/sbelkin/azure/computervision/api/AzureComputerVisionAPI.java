@@ -1,7 +1,7 @@
 package io.sbelkin.azure.computervision.api;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.sbelkin.azure.computervision.configuration.AzureComputerVisionConfiguration;
+import io.sbelkin.azure.computervision.services.storage.configurations.AzureComputerVisionConfiguration;
 import io.sbelkin.azure.computervision.consts.AzureComputerVisionConstants;
 import io.sbelkin.azure.computervision.exceptions.AzureComputerVisionException;
 import io.sbelkin.azure.computervision.models.azure.AzureResponse;

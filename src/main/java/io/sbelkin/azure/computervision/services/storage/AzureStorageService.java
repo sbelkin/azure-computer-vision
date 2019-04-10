@@ -1,4 +1,4 @@
-package io.sbelkin.azure.computervision.storage;
+package io.sbelkin.azure.computervision.services.storage;
 
 import org.springframework.core.io.Resource;
 import org.springframework.web.multipart.MultipartFile;
@@ -39,4 +39,5 @@ public class AzureStorageService implements StorageService {
     public void deleteAll() {
 
     }
+
 }

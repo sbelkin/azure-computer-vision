@@ -1,9 +1,9 @@
-package io.sbelkin.azure.computervision.configuration;
+package io.sbelkin.azure.computervision.configurations;
 
 import io.sbelkin.azure.computervision.exceptions.ConfigurationException;
-import io.sbelkin.azure.computervision.storage.AzureStorageService;
-import io.sbelkin.azure.computervision.storage.LocalFileStorageService;
-import io.sbelkin.azure.computervision.storage.StorageService;
+import io.sbelkin.azure.computervision.services.storage.AzureStorageService;
+import io.sbelkin.azure.computervision.services.storage.LocalFileStorageService;
+import io.sbelkin.azure.computervision.services.storage.StorageService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

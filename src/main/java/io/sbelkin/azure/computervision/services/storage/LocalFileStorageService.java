@@ -1,6 +1,6 @@
-package io.sbelkin.azure.computervision.storage;
+package io.sbelkin.azure.computervision.services.storage;
 
-import io.sbelkin.azure.computervision.configuration.LocalStorageConfiguration;
+import io.sbelkin.azure.computervision.services.storage.configurations.LocalStorageConfiguration;
 import org.apache.commons.io.FileUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
