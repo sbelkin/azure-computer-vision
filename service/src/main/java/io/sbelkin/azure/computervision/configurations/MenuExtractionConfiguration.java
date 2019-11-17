@@ -24,7 +24,7 @@ public class MenuExtractionConfiguration {
                 return new BasicMenuExtraction();
             case UNKNOWN:
             default:
-                throw new ConfigurationException("Failure to configure menu extraction: "+menuExtraction);
+                throw new ConfigurationException("Failure to configure menu extraction: " + menuExtraction);
         }
     }
 

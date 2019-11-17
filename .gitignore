@@ -21,4 +21,4 @@ target/**
 
 ### Production Properties ###
 files/**
-src/main/resources/application.production.properties
+service/src/main/resources/application.production.properties

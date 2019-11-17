@@ -28,7 +28,7 @@ public class LocalFileStorageService implements StorageService {
     @PostConstruct
     public void init() {
         this.directory = new File(configuration.getFilePath());
-        if (!directory.exists()){
+        if (!directory.exists()) {
             directory.mkdirs();
         }
         logger.info("Files stored in : {}", directory.getAbsolutePath());

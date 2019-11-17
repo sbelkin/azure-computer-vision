@@ -24,7 +24,7 @@ public class BeerLookupConfiguration {
                 return new NoOpBeerLookup();
             case UNKNOWN:
             default:
-                throw new ConfigurationException("Failure to configure beer lookup: "+beerLookup);
+                throw new ConfigurationException("Failure to configure beer lookup: " + beerLookup);
         }
     }
 

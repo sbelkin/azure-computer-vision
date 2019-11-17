@@ -1,14 +1,12 @@
 package io.sbelkin.azure.computervision.services;
 
+import com.microsoft.azure.cognitiveservices.vision.computervision.models.OcrResult;
 import io.sbelkin.azure.computervision.api.AzureComputerVisionAPI;
 import io.sbelkin.azure.computervision.exceptions.AzureComputerVisionException;
 import io.sbelkin.azure.computervision.models.Beer;
-import io.sbelkin.azure.computervision.models.azure.AzureResponse;
-import io.sbelkin.azure.computervision.services.beers.BeerLookup;
 import io.sbelkin.azure.computervision.services.extractions.MenuExtraction;
 import io.sbelkin.azure.computervision.services.storage.StorageService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
@@ -32,8 +30,8 @@ public class BeerListExtraction {
         // store file
         File uploaded = storageService.store(file);
         // get ocr response
-        AzureResponse azureResponse = azureComputerVisionAPI.getResponse(uploaded);
+        OcrResult ocrResult = azureComputerVisionAPI.getResponse(uploaded);
         // extract beer list
-        return menuExtraction.getBeerList(azureResponse);
+        return menuExtraction.getBeerList(ocrResult);
     }
 }

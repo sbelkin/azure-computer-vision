@@ -27,7 +27,7 @@ public class StorageServiceConfiguration {
                 return new LocalFileStorageService();
             case UNKNOWN:
             default:
-                throw new ConfigurationException("Failure to configure storage service: "+storageService);
+                throw new ConfigurationException("Failure to configure storage service: " + storageService);
         }
     }
 

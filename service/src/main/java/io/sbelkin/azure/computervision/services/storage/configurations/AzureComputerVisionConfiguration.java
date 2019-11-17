@@ -19,15 +19,15 @@ public class AzureComputerVisionConfiguration {
     // Free trial subscription keys are generated in the "westus" region.
     // If you use a free trial subscription key, you shouldn't need to change
     // this region.
-    public String url;
+    public String endpoint;
     public String subscriptionKey;
 
-    public String getUrl() {
-        return url;
+    public String getEndpoint() {
+        return endpoint;
     }
 
-    public void setUrl(String url) {
-        this.url = url;
+    public void setEndpoint(String endpoint) {
+        this.endpoint = endpoint;
     }
 
     public String getSubscriptionKey() {
@@ -41,7 +41,7 @@ public class AzureComputerVisionConfiguration {
     @Override
     public String toString() {
         return "AzureComputerVisionConfiguration{" +
-                "url='" + url + '\'' +
+                "endpoint='" + endpoint + '\'' +
                 ", subscriptionKey='" + subscriptionKey + '\'' +
                 '}';
     }
